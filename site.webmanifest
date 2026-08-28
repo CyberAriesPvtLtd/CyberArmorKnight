@@ -1,0 +1,21 @@
+{
+  "name": "CyberArmorKnight | Tushar Patil",
+  "short_name": "CyberArmorKnight",
+  "description": "Tushar Patil — CEO, CyberAries Pvt Ltd & CISO, Arysec Consultancy LLP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#040B1C",
+  "theme_color": "#040B1C",
+  "icons": [
+    {
+      "src": "/Images/Logo1-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Images/Logo1-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
